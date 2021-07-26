@@ -23,3 +23,5 @@ Output:
 3: 333
 1: 1
 4: 4444
+
+*(Each number is printed in a separate line.)*
